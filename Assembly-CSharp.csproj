@@ -120,6 +120,7 @@
      <Compile Include="Assets\UnityARKitPlugin\Plugins\iOS\UnityARKit\NativeInterface\ARTrackingStateReason.cs" />
      <Compile Include="Assets\UnityARKitPlugin\Plugins\iOS\UnityARKit\NativeInterface\ARUserAnchor.cs" />
      <Compile Include="Assets\UnityARKitPlugin\Plugins\iOS\UnityARKit\NativeInterface\UnityARSessionNativeInterface.cs" />
+     <Compile Include="Assets\ZombieControl.cs" />
      <None Include="Assets\UnityARKitPlugin\Examples\Common\Shaders\MobileOcclusion.shader" />
      <None Include="Assets\UnityARKitPlugin\ARKitRemote\ARKITREMOTE.txt" />
      <None Include="Assets\UnityARKitPlugin\Plugins\iOS\UnityARKit\Shaders\YUVShaderLinear.shader" />
